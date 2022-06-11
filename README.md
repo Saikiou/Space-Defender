@@ -29,11 +29,6 @@
 - Finishing all the tasks on time due to the lack of experience in Unity Functional Programing.
 - Fixing Bugs.
 - Time-management in the given tasks. 
-
-### Result and Conclusion
-
-
-
 ### What have we learn?
 - How to use github properly.
 - Putting OOP knowledges into actions.
