@@ -8,7 +8,7 @@
   - Dương Thái Cảnh ITITIU19007
   - Nguyễn Huy Minh ITITIU19158
 - Motivation:
-  - Since our previous project has many flaws and error that could not be fixed in time, so we decided to start over again with a different project similar to our childhood game **chicken invader**, which is easier to make.
+  - Since our previous project have many flaws and errors that could not be fixed in time, so we decided to start over again with a different project similar to our childhood game **chicken invader**, which is easier to make.
 - Task allocate to members:
   - Huỳnh Quốc Cường:
   - Trần Huỳnh Nhật Thi:
@@ -26,8 +26,8 @@
 
 ### Challenges in the project
 - Finishing all the tasks on time due to the lack of experience in Unity Functional Programing.
-
-
+- Fixing Bugs
+- 
 
 ### Result and Conclusion
 
@@ -40,3 +40,5 @@
 
 
 ### References
+-https://www.youtube.com/watch?v=LNLVOjbrQj4
+-https://www.youtube.com/watch?v=xrLlZ1mHCTA
