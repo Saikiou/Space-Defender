@@ -13,7 +13,7 @@
   - Huỳnh Quốc Cường: Score system, sreen shake.
   - Trần Huỳnh Nhật Thi: Game menu, enemy wave.
   - Dương Thái Cảnh: Music and sound effects.
-  - Nguyễn Huy Minh: input system, shoting, laser.
+  - Nguyễn Huy Minh: input system, shooting, laser.
 ### Our Technology stack selection
 - The game will use the game engine Unity, programming language C#, and Unity's libraries.
 - Unity is an friendly game engine that suitable for many devices , developed by Unity Technologies, can be used to create three-dimensional (3D) and two-dimensional (2D) games, as well as interactive simulations and other experiences.
