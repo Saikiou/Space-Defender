@@ -27,7 +27,7 @@
 ### Challenges in the project
 - Finishing all the tasks on time due to the lack of experience in Unity Functional Programing.
 - Fixing Bugs
-- 
+
 
 ### Result and Conclusion
 
@@ -35,10 +35,10 @@
 
 
 ### What have we learn?
-
-
-
+- How to use github properly.
+- Putting OOP knowledges into actions.
+- The importance of time-management of the task.
 
 ### References
-- Shooting:https://www.youtube.com/watch?v=LNLVOjbrQj4
-- Movement:https://www.youtube.com/watch?v=xrLlZ1mHCTA
+- Shooting: https://www.youtube.com/watch?v=LNLVOjbrQj4
+- Movement: https://www.youtube.com/watch?v=xrLlZ1mHCTA
