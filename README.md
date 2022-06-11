@@ -25,6 +25,7 @@
 - Score systems 
 - Music and sound effects
 - Camera effects
+- HP bar
 ### Challenges in the project
 - Finishing all the tasks on time due to the lack of experience in Unity Functional Programing.
 - Fixing Bugs
