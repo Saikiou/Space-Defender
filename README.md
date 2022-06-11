@@ -9,11 +9,11 @@
   - Nguyễn Huy Minh ITITIU19158
 - Motivation:
   - Since our previous project have many flaws and errors that could not be fixed in time, so we decided to start over again with a different project similar to our childhood game **chicken invader**, which is easier to make.
-- Task allocate to members:
-  - Huỳnh Quốc Cường: Score system, sreen shake.
-  - Trần Huỳnh Nhật Thi: Game menu, enemy wave.
-  - Dương Thái Cảnh: Music and sound effects.
-  - Nguyễn Huy Minh: input system, shooting, laser.
+- Task allocate to members and contribution:
+  - Huỳnh Quốc Cường: Score system, sreen shake. (25%)
+  - Trần Huỳnh Nhật Thi: Game menu, enemy wave. (25%)
+  - Dương Thái Cảnh: Music and sound effects. (25%)
+  - Nguyễn Huy Minh: input system, shooting, laser. (25%)
 ### Our Technology stack selection
 - The game will use the game engine Unity, programming language C#, and Unity's libraries.
 - Unity is an friendly game engine that suitable for many devices , developed by Unity Technologies, can be used to create three-dimensional (3D) and two-dimensional (2D) games, as well as interactive simulations and other experiences.
