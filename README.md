@@ -40,5 +40,5 @@
 
 
 ### References
--https://www.youtube.com/watch?v=LNLVOjbrQj4
--https://www.youtube.com/watch?v=xrLlZ1mHCTA
+- Shooting:https://www.youtube.com/watch?v=LNLVOjbrQj4
+- Movement:https://www.youtube.com/watch?v=xrLlZ1mHCTA
