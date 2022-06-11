@@ -2,4 +2,4 @@
 ## Space-Defender
 
 1.Introduction
-_ Members: Huỳnh Quốc Cường ITITIU19092 (Leader), Trần Huỳnh Nhật Thi ITITIU20311, Dương Thái Cảnh ITITIU19007, Nguyễn Huy Minh ITITIU19158
+-Members: Huỳnh Quốc Cường ITITIU19092 (Leader), Trần Huỳnh Nhật Thi ITITIU20311, Dương Thái Cảnh ITITIU19007, Nguyễn Huy Minh ITITIU19158
