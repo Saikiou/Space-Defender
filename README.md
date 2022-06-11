@@ -20,12 +20,15 @@
 - Unity is considered easy to use for beginner developers and is popular for indie game development.
 - The Unity version that going to be used in this project is 2021.3.0f1.
 ### Features
-- Complete: Game menu, Shooting laser, Score systems, Music and sound effects, Camera effects, HP bar.
-- Incomplete: multi laser effects, finall boss, booster in game. 
-- In future: Online system, many more plane, boss battle together system and many more.
+- Game menu with a beautiful design.
+- Shooting laser
+- Score systems 
+- Music and sound effects
+- Camera effects
 ### Challenges in the project
 - Finishing all the tasks on time due to the lack of experience in Unity Functional Programing.
-- Fixing Bugs
+- Fixing Bugs.
+- Time-management in the given tasks. 
 
 ### Result and Conclusion
 
@@ -39,5 +42,3 @@
 ### References
 - Shooting: https://www.youtube.com/watch?v=LNLVOjbrQj4
 - Movement: https://www.youtube.com/watch?v=xrLlZ1mHCTA
-- Asset: https://www.kenney.nl/assets/space-shooter-redux
-- Sound effect: https://juhanijunkala.com/
