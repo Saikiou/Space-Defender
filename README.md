@@ -1,7 +1,7 @@
 # A project game from Team_4Guys
 ## Space-Defender
 
-1.Introduction
+### Introduction
 - Members: 
   - Huỳnh Quốc Cường ITITIU19092 (Leader)
   - Trần Huỳnh Nhật Thi ITITIU20311
@@ -14,5 +14,5 @@
   - Trần Huỳnh Nhật Thi:
   - Dương Thái Cảnh:
   - Nguyễn Huy Minh: 
- 2. Our Technology stack selection
+### Our Technology stack selection
       
